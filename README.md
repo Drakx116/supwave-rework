@@ -1,8 +1,3 @@
-# NodeJS SetUp
-Use this template and stop wasting time.
+# SupWave Rework
 
-Already configured :
-
-- Concurrently on /server startup
-- Babel
-- Express instance
+NodeJS rework of my previous version of SupWave (made in ASP .NET), a music web application.
