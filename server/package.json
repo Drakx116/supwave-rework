@@ -11,7 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.2",
+    "body-parser": "latest"
   },
   "devDependencies": {
     "@babel/core": "^7.8.3",
